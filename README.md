@@ -1,7 +1,7 @@
 🚗 License Plate Detection & Recognition using PaddleOCR (v5 & v4)
 
-This project implements an end-to-end pipeline for car license plate recognition using PaddleOCR.
-The main objective was to understand how PPOCR models work in real training scenarios and to compare the performance of PPOCR v5 and PPOCR v4 on a custom license plate dataset.
+  This project implements an end-to-end pipeline for car license plate recognition using PaddleOCR.
+  The main objective was to understand how PPOCR models work in real training scenarios and to compare the performance of PPOCR v5 and PPOCR v4 on a custom license plate      dataset.
 
 The project is divided into two complete Google Colab notebooks — one for training and one for inference — and both run fully from start to finish.
 
